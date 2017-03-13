@@ -1,0 +1,127 @@
+Spring
+Hibernate
+MyBatis
+Liquibase
+Guava
+ESB
+MQ
+React (Redux)
+Flux 
+EventEmitter
+Vanilla
+Less
+Autoprefixer
+Gulp
+moment
+Single Page Application SPA
+OLAP
+ETL
+sass
+Webpack
+Babel
+Cordova
+PhoneGap
+TypeScript
+SOAP
+Apollo/Relay
+Graphql
+RabbitMQ
+Memcached
+Express
+google closure tools
+bem
+scss
+laravel
+Spring Boot
+Spring Cloud
+Docker
+Jenkins
+RegEx
+Grails 
+Knockout
+OLAP-кубов
+ETL
+DWH
+SQL select
+NoSQL java
+JavaFX
+SOAP
+Gradle
+Graphite
+Symfony
+Sphinx
+Memcached
+Bootstrap
+SonarCube
+SSO
+CI/CD
+IoC
+
+
+Java
+collections
+multithreading
+backbone.js
+angular.js
+node.js
+JMS
+RequireJS
+JSRender
+asynchronous processing
+messaging
+SOLID, DRY
+Yii2
+
+
+
+DB
+JDBC
+Postgres
+Blazegraph
+RDBMS
+Cassandra
+CouchDB
+MongoDB
+Redis
+AMQP
+
+ErWin
+Power Designer 
+
+
+CMS 
+Bitrix
+OpenCart
+
+Devops
+Ansible, Docker, OpenVZ, Salt, OpenStack, Vagrant, Chef
+
+
+test
+Selenium/Mocha
+JUnit
+JavaScript (TDD, BDD);
+
+платформа для разработки 
+SSO
+Git
+SonarCube
+TeamCity\Jenkins
+SVN
+Mercurial 
+
+
+
+
+Netcat / Bitrix
+
+SCRUM/Agile
+trello/kanban
+
+joel test
+codestyle 
+(jscs/jshint)
+Progressive Enhancement/Graceful Degradation
+
+
+динамическая нестрогая типизация
