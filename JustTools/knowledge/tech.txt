@@ -39,7 +39,7 @@ Jenkins
 RegEx
 Grails 
 Knockout
-OLAP-кубов
+OLAP-ГЄГіГЎГ®Гў
 ETL
 DWH
 SQL select
@@ -56,6 +56,7 @@ SonarCube
 SSO
 CI/CD
 IoC
+Maven
 
 
 Java
@@ -102,7 +103,7 @@ Selenium/Mocha
 JUnit
 JavaScript (TDD, BDD);
 
-платформа для разработки 
+ГЇГ«Г ГІГґГ®Г°Г¬Г  Г¤Г«Гї Г°Г Г§Г°Г ГЎГ®ГІГЄГЁ 
 SSO
 Git
 SonarCube
@@ -124,4 +125,4 @@ codestyle
 Progressive Enhancement/Graceful Degradation
 
 
-динамическая нестрогая типизация
+Г¤ГЁГ­Г Г¬ГЁГ·ГҐГ±ГЄГ Гї Г­ГҐГ±ГІГ°Г®ГЈГ Гї ГІГЁГЇГЁГ§Г Г¶ГЁГї
